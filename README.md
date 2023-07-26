@@ -21,6 +21,6 @@ Toy example for car control by CAN
      sudo ip link set can0 type can bitrate 500000 dbitrated 2000000 berr-reporting on fd on
      sudo ip link set can0 up
 
-4. control_by_keyboard.py를 실행하여 키보드로 차량제어 실tl
+4. control_by_keyboard.py를 실행하여 키보드로 차량제어
 
 
